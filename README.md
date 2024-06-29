@@ -5,7 +5,9 @@ This Python library offers a custom implementation of the Caesar cipher, a corne
 ## Features
 
 ### Encrypt and Decrypt Messages
-Leverage the Caesar cipher's shift-based technique to transform plain text into encrypted messages and vice versa, using a user-defined key.
+While Python doesn't have a built-in function specifically named `caesar`, there are modules like `string` that provide functionalities useful for implementing the Caesar cipher.
+
+The provided code achieves Caesar cipher encryption and decryption without relying on a pre-existing `caesar` function. It leverages Python's string manipulation features and the `str.maketrans` function to create translation tables for shifting characters.
 
 ### Delve into Cryptographic Fundamentals
 Gain practical experience with character manipulation and encryption principles, laying the groundwork for exploring more advanced algorithms.
