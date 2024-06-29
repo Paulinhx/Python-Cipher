@@ -32,7 +32,7 @@ Utilize it as a building block while venturing into the exciting world of more c
 ## Getting Started
 
 ### Import the Library
-Integrate the functionality seamlessly into your Python projects using `import caesar_cipher`.
+Integrate the functionality seamlessly into your Python projects using `import string`.
 
 ### Encryption
 Craft your message and choose a shift key (0-25). Employ the `caesar_encrypt(message, key)` function to transform your message into an encrypted form.
